@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top:0px;
+}
+.hobby {
+    width: 200px;
+    border-radius: 80px;
+    margin-bottom: 50px;
+}
+    #welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+color: darkorange;
+        background: linear-gradient(#ebe71e 0%, #e3e17b 100%);
+        
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+h1 {
+    font-size: 30px;
+    font-family: cursive;
+    color: blue;
+    font-weight: 300;}
+
+
+#hobby name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: cornflowerblue;
+    font-family:cursive;
+}
+h2 {
+
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 300;}
+p {
+    color:deeppink ;
+}
